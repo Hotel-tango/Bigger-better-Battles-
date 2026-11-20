@@ -1,0 +1,8 @@
+{
+	"id":"mbsfs", # internal id
+	"name":"More Battle Size & Fleet Size", # displayed to the player
+	"version":"1.0",
+	"description":"Increases the sizes of battles and your fleet to allow for larger and more epic battles.",
+	"author":"CyberStorm",
+	"gameVersion":"0.98a-RC5",
+}

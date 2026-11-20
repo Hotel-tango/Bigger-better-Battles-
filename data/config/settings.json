@@ -1,0 +1,10 @@
+{
+	"maxShipsInFleet":60,
+	"maxShipsInAIFleet":30,
+	"maxOfficersInAIFleet":10, # should match what a max-skill player can get
+	"minBattleSize":800, # in supplies-to-recover. min value for settings slider
+	"defaultBattleSize":1200, # in supplies-to-recover. starting value for settings slider
+	"maxBattleSize":1600, # in supplies-to-recover. max value for settings slider
+	"stationDeploymentBonusMult":1.5, # battlesize is increased by (station cost * this) deployment points
+	"minFractionOfBattleSizeForSmallerSide":0.4
+}
